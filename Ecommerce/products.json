@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "Apple",
+      "price": 1.25,
+      "category": "food"
+    },
+    {
+      "name": "Banana",
+      "price": 0.75,
+      "category": "food"
+    },
+    {
+      "name": "Milk",
+      "price": 2.50,
+      "category": "food"
+    },
+    {
+      "name": "Bread",
+      "price": 1.99,
+      "category": "food"
+    },
+    {
+      "name": "Notebook",
+      "price": 4.50,
+      "category": "others"
+    },
+    {
+      "name": "Pen",
+      "price": 1.00,
+      "category": "others"
+    },
+    {
+      "name": "Flashlight",
+      "price": 8.75,
+      "category": "others"
+    },
+    {
+      "name": "Soda",
+      "price": 1.50,
+      "category": "food"
+    },
+    {
+      "name": "Chair",
+      "price": 20.99,
+      "category": "others"
+    }
+  ]
+}
